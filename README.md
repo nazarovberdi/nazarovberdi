@@ -24,15 +24,4 @@
   <img src="https://skillicons.dev/icons?i=vscode,html,css,react,next,vue,nuxt" />
 </div>
 
-<hr />
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=berdi00&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdi00&theme=react&layout=compact" />
-</p>
-
-<p align= "center">
-  <img src="https://profile-counter.glitch.me/berdi00/count.svg">
-</p>
-
 
